@@ -1,0 +1,8 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.slx.autosave
+*.fig
+octave-workspace
+*.mat
